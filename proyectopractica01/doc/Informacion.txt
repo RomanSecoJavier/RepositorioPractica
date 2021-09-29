@@ -1,0 +1,4 @@
+En este documento se explica como instalar y crearse una cuenta de Github
+Para ello es neecesario entrar en la pagina de git.bash y descargarse la version 2.33 de este servicio despues de hacer esta accion se procede a instalarlo donde lo unico 
+que hay que hacer es darlee doble click encima del ejecutable y darle siguiente hasta instalarlo por compleeto una vez hecho esto lo unico que hay que hacer es entrar en
+github.com y registrarse 
